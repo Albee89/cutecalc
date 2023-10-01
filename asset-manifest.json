@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cutecalc/static/css/main.3ccfb7da.css",
+    "main.js": "/cutecalc/static/js/main.3b0fdf07.js",
+    "static/js/787.e0f82ca3.chunk.js": "/cutecalc/static/js/787.e0f82ca3.chunk.js",
+    "static/media/soy2k.avif": "/cutecalc/static/media/soy2k.820114b2db9d9a6a642d.avif",
+    "index.html": "/cutecalc/index.html",
+    "main.3ccfb7da.css.map": "/cutecalc/static/css/main.3ccfb7da.css.map",
+    "main.3b0fdf07.js.map": "/cutecalc/static/js/main.3b0fdf07.js.map",
+    "787.e0f82ca3.chunk.js.map": "/cutecalc/static/js/787.e0f82ca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccfb7da.css",
+    "static/js/main.3b0fdf07.js"
+  ]
+}
